@@ -1,6 +1,6 @@
 # 3wordseq
 
-Download the 3wordseq.jar file
+Download the 3wordseq.jar file from the releases.
 
 
 Execute it as java -jar 3wordseq.jar "Path of the file"
